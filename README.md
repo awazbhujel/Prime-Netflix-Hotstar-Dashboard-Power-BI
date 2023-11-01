@@ -1,12 +1,11 @@
 # Amazon-Netflix-Hotstar Dashboard
 
 A powerful interactive dashboard for visualizing and analyzing data from Amazon Prime, Netflix, and Disney+ movies and TV shows.
+
 <style>
   .large-text {
-    font-size: 28px; 
+    font-size: 40px; 
     color: #0073e6; 
-    font-weight: bold;  
-    font-family: Arial, sans-serif; 
   }
 </style>
 
