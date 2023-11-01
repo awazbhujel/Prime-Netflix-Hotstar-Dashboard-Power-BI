@@ -3,19 +3,19 @@
 A powerful interactive dashboard for visualizing and analyzing data from Amazon Prime, Netflix, and Disney+ movies and TV shows.
 
 <p align="center">
-  <img src="https://github.com/awazbhujel/Amazon.png" alt="Amazon" title="Amazon">
+  <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Amazon.png" alt="Amazon" title="Amazon">
   <br>
   Amazon
 </p>
 
 <p align="center">
-  <img src="https://github.com/awazbhujel/Netflix.png" alt="Netflix" title="Netflix">
+  <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Netflix.png" alt="Netflix" title="Netflix">
   <br>
   Netflix
 </p>
 
 <p align="center">
-  <img src="https://github.com/awazbhujel/Hotstar.png" alt="Hotstar" title="Hotstar">
+  <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Hotstar.png" alt="Hotstar" title="Hotstar">
   <br>
   Hotstar
 </p>
