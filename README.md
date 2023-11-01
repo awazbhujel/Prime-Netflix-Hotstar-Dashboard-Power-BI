@@ -10,9 +10,9 @@ A powerful interactive dashboard for visualizing and analyzing data from Amazon 
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
     font-family: Arial, sans-serif; 
     background-color: #f0f0f0; 
-    padding: 10px; /*
-    border-radius: 8px; /* 
-    display: inline-block; /*
+    padding: 10px; 
+    border-radius: 8px;  
+    display: inline-block; 
   }
 </style>
 
