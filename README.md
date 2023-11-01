@@ -4,7 +4,7 @@ A powerful interactive dashboard for visualizing and analyzing data from Amazon 
 
 <style>
   .large-text {
-    font-size: 24px; /* You can adjust the font size as needed */
+    font-size: 40px;
   }
 </style>
 
