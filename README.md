@@ -2,24 +2,29 @@
 
 A powerful interactive dashboard for visualizing and analyzing data from Amazon Prime, Netflix, and Disney+ movies and TV shows.
 
+<style>
+  .large-text {
+    font-size: 24px; /* You can adjust the font size as needed */
+  }
+</style>
+
 <p align="center">
+  <strong><big><span class="large-text">Amazon</span></big></strong>
+  <br>
   <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Amazon.png" alt="Amazon" title="Amazon">
-  <br>
-  Amazon
 </p>
 
 <p align="center">
+  <strong><big><span class="large-text">Netflix</span></big></strong>
+  <br>
   <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Netflix.png" alt="Netflix" title="Netflix">
-  <br>
-  Netflix
 </p>
 
 <p align="center">
-  <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Hotstar.png" alt="Hotstar" title="Hotstar">
+  <strong><big><span class="large-text">Hotstar</span></big></strong>
   <br>
-  Hotstar
+  <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Hotstar.png" alt="Hotstar" title="Hotstar">
 </p>
-
 
 ## Prerequisites
 - **Power BI Desktop:** Download and install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
@@ -36,13 +41,6 @@ The dashboard provides various features for data exploration and analysis, inclu
 - **Dynamic Filters:** Adjust filters to explore the dataset more deeply.
 - **Export Data:** Export visualizations or data for further analysis.
 
-
 ## Conclusion
 
 The Amazon-Netflix-Hotstar Dashboard project serves as a powerful tool for exploring and gaining insights from the datasets of Amazon Prime, Netflix, and Disney+ movies and TV shows. With interactive visualizations, filtering options, and custom metrics, this dashboard provides users with the ability to analyze and visualize data in a user-friendly and informative manner.
-
-**Key Takeaways:**
-- The combination of data from multiple sources allows for a comprehensive view of the streaming content landscape.
-- Users can easily filter and explore data by genre, release year, and user rating, facilitating deep insights into content preferences.
-- Custom metrics and dynamic visualizations offer a nuanced understanding of content popularity and trends.
-
