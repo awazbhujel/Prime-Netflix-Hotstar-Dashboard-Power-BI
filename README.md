@@ -1,38 +1,38 @@
 # Amazon-Netflix-Hotstar Dashboard
 
 A powerful interactive dashboard for visualizing and analyzing data from Amazon Prime, Netflix, and Disney+ movies and TV shows.
-
 <style>
-  large-text {
-    font-size: 28px;
-    color: #0073e6; 
-    font-weight: bold; 
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
-    font-family: Arial, sans-serif; 
-    background-color: #f0f0f0;
-    padding: 10px; 
-    border-radius: 8px;
-    display: inline-block; 
+  .large-text {
+    font-size: 28px; /* Increase the font size */
+    color: #0073e6; /* Set the text color */
+    font-weight: bold; /* Make the text bold */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a subtle text shadow */
+    font-family: Arial, sans-serif; /* Specify a font family */
+    background-color: #f0f0f0; /* Add a background color behind the text */
+    padding: 10px; /* Add padding around the text */
+    border-radius: 8px; /* Round the corners of the background */
+    display: inline-block; /* Allow inline-block elements to have width and height */
   }
 </style>
 
 <p align="center">
-  <strong><big><span class="large-text">Amazon</span></big></strong>
+  <span class="large-text">Amazon</span>
   <br>
   <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Amazon.png" alt="Amazon" title="Amazon">
 </p>
 
 <p align="center">
-  <strong><big><span class="large-text">Netflix</span></big></strong>
+  <span class="large-text">Netflix</span>
   <br>
   <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Netflix.png" alt="Netflix" title="Netflix">
 </p>
 
 <p align="center">
-  <strong><big><span class="large-text">Hotstar</span></big></strong>
+  <span class="large-text">Hotstar</span>
   <br>
   <img src="https://github.com/awazbhujel/Prime-Netflix-Hotstar-Dashboard-Power-BI/blob/main/pics/Hotstar.png" alt="Hotstar" title="Hotstar">
 </p>
+
 
 ## Prerequisites
 - **Power BI Desktop:** Download and install [Power BI Desktop](https://powerbi.microsoft.com/en-us/desktop/).
