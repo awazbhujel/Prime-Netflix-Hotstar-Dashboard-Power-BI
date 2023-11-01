@@ -4,7 +4,15 @@ A powerful interactive dashboard for visualizing and analyzing data from Amazon 
 
 <style>
   .large-text {
-    font-size: 40px;
+    font-size: 45px;
+    color: #0073e6;
+    font-weight: bold;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+    font-family: Arial, sans-serif; 
+    background-color: #f0f0f0; 
+    padding: 10px; /*
+    border-radius: 8px; /* 
+    display: inline-block; /*
   }
 </style>
 
